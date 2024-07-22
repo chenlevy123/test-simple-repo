@@ -1,0 +1,7 @@
+{
+  "name": "my-workspace",
+  "private": true,
+  "dependencies": {
+    "ansi-regex": "^3.0.0"
+  }
+}
